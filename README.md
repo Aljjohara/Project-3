@@ -1,9 +1,11 @@
 # Project-3 Exodus REIT
 ### Group Members
-- Daniel Brims
-- Antón Díez Tubet
+- Aljjohara Aloudan
 - Mindy Bright
-- Aljohara Aloudan
+- Daniel Brims
+- Anton Diez Tubet
+
+
 
 ### Project Summary
  The exodus from urban centers will continue and is creating attractive opportunities in suburban real estate.
