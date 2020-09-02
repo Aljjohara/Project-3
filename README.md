@@ -36,7 +36,7 @@ Data sets:
 
 - We used neural network to bucket geographies to allow us to identify communities that are the most similar and thus may have similar market performance.
 - We tested three models with different number of hidden layers (1, 2, and 3).
-- then, we compared the loss funtions for each model.
+- Then, we compared the loss funtions for each model.
 
 ![Image](images/neuralnetworkplot3layers.png)
 
