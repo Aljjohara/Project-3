@@ -14,7 +14,7 @@ Attractive risk-adjusted returns may be available in real estate from suburban a
 Real assets can add attractive and uncorrelated sources of yields, further diversification, and hedge against inflation.
 In this project we anaylized the real estate market in order to predict the best place to invest in, we used the most recent real estate data and applied both supervised and unsupervised machine learning algorithms using different features extracted from the data. Intuitively, we expect that big cities are the least preferred for investment due to Covid-19 pendemic, our results agree with this intution.
 
-We did two sets of experiments, the first one, supervised price per square feet prediction using neural netwrok. Second one, unsuperviesd clustering anaylsis using K-means and Bayesian Gausian mixture cluster model.
+We did two sets of experiments, the first one, supervised price per square foot prediction using neural netwrok. Second one, unsuperviesd clustering anaylsis using K-means and Bayesian Gausian mixture cluster model.
 
 
 
