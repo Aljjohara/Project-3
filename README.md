@@ -12,9 +12,9 @@
 We believe the post-pandemic flexible working arrangements and tax-friendly environments will support the exodus to these areas.
 Attractive risk-adjusted returns may be available in real estate from suburban areas with growing populations.
 Real assets can add attractive and uncorrelated sources of yields, further diversification, and hedge against inflation.
-In this project we anaylized the real estate market in order to predict the best place to invest in, we used the most recent real estate data and applied both supervised and unsupervised machine learning algorithms using different features extracted from the data. Intuitively, we expect that big cities are the least preferred for investment due to Covid-19 pendemic, our results agree with this intution.
+In this project we analyzed the real estate market in order to predict the best place to invest in, we used the most recent real estate data and applied both supervised and unsupervised machine learning algorithms using different features extracted from the data. Intuitively, we expect that big cities are the least preferred for investment due to Covid-19 pandemicc, our results agree with this intuition.
 
-We did two sets of experiments, the first one, supervised price per square foot prediction using neural netwrok. Second one, unsuperviesd clustering anaylsis using K-means and Bayesian Gausian mixture cluster model.
+We did two sets of experiments, the first one, supervised price per square foot prediction using neural network. Second one, unsupervised clustering analysis  using K-means and Bayesian Gausian mixture cluster model.
 
 
 
@@ -36,7 +36,7 @@ Data sets:
 
 - We used neural network to bucket geographies to allow us to identify communities that are the most similar and thus may have similar market performance.
 - We tested three models with different number of hidden layers (1, 2, and 3).
-- Then, we compared the loss funtions for each model.
+- Then, we compared the loss functions for each model.
 
 ![Image](images/neuralnetworkplot3layers.png)
 
