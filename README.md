@@ -1,4 +1,4 @@
-# Project-3 Exodus REIT
+# Exodus REIT Project
 ### Group Members
 - Aljjohara Aloudan
 - Mindy Bright
